@@ -20,7 +20,7 @@ body {
 }
 
 .header {
-    background-image: url(/images/header__bg.jpg);
+    background-image: url(images/header__bg.jpg);
     min-height: 791px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -185,7 +185,7 @@ body {
 .features {
     padding-top: 55px;
     padding-bottom: 69px;
-    background-image: url(/images/features_bg.png);
+    background-image: url(images/features_bg.png);
     background-repeat: no-repeat;
     background-position: left bottom;
     font-weight: 700;
@@ -226,7 +226,7 @@ body {
 .work {
     padding-top: 75px;
     padding-bottom: 35px;
-    background-image: url(/images/work_bg.svg);
+    background-image: url(images/work_bg.svg);
     background-repeat: no-repeat;
     background-position: right center;
 }
@@ -286,7 +286,7 @@ body {
 .testimonial {
     padding-top: 50px;
     padding-bottom: 75px;
-    background-image: url(/images/testimonial_bg.png);
+    background-image: url(images/testimonial_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -312,7 +312,7 @@ body {
     max-width: 251px;
     padding: 35px 24px 31px 18px;
     margin-right: 20px;
-    background-image: url(/images/client_bg.png);
+    background-image: url(images/client_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
