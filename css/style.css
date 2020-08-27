@@ -312,7 +312,7 @@ body {
     max-width: 251px;
     padding: 35px 24px 31px 18px;
     margin-right: 20px;
-    background-image: url(..images/client_bg.png);
+    background-image: url(../images/client_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
